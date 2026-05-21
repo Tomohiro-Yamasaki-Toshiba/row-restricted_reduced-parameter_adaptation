@@ -40,10 +40,10 @@ python train.py \
 ```
 
 If you use `math_10k.json` or `commonsense_170k.json` as training datasets,
-they can be available from https://github.com/AGI-Edgerunners/LLM-Adapters.
+they can be available from [LLM-Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters).
 
 If you use `Llama-3-8B` or `Gemma-3-12B-PT` as pre-trained models,
-they can be available from https://huggingface.co/models.
+they can be available from [HuggingFace Models](https://huggingface.co/models).
 
 After training, `adapter.bin` file is created in `output_dir`.
 
